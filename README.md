@@ -10,7 +10,7 @@ This project showcases a 3D iPhone website that I created using JavaScript and v
 
 Feel free to explore the project and check out the following links:
 
-- **Live Demo**: [3D iPhone Website](https://www.yourwebsite.com)
+- **Live Demo**: [3D iPhone Website](https://iphone-website-opal.vercel.app/)
 - **GitHub Repository**: [3D iPhone Website Repository](https://github.com/yourusername/3d-iphone-website)
 
 ## Resources
